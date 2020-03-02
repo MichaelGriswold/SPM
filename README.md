@@ -9,7 +9,7 @@ The SPM Pseudo-Code pdf file contains some helpful information and a basic descr
 
 Data: 
 
-simdata.csv is the example dataset (Brain Atrophy, Cognitive Decline & Dementia)
+1. [simdata.csv][] is the example dataset (Brain Atrophy, Cognitive Decline & Dementia)
 
 Code: 
 1. spm.do:    Stata code for shared parameter model
@@ -21,3 +21,6 @@ Enjoy!
 Feedback welcome:
 mgriswold@umc.edu ;
 xzhu3@umc.edu
+
+<!--external links -->
+[simdata.csv]:https://github.com/MichaelGriswold/SPM/blob/master/simdata.csv
