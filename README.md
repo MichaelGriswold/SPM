@@ -12,8 +12,8 @@ Data:
 1. [simdata.csv][] is the example dataset (Brain Atrophy, Cognitive Decline & Dementia)
 
 Code: 
-1. spm.do:    Stata code for shared parameter model
-2. spm.sas:   SAS code for shared parameter model
+1. [spm.do][]:    Stata code for shared parameter model
+2. [spm.sas][]:   SAS code for shared parameter model
 3. [spm.R][]:     R code for shared parameter model
  
 Enjoy!
@@ -24,4 +24,6 @@ xzhu3@umc.edu
 
 <!--external links -->
 [simdata.csv]:https://github.com/MichaelGriswold/SPM/blob/master/simdata.csv
+[spm.do]:https://github.com/MichaelGriswold/SPM/blob/master/spm.do
+[spm.sas]:https://github.com/MichaelGriswold/SPM/blob/master/spm.sas
 [spm.R]:https://github.com/MichaelGriswold/SPM/blob/master/spm.R
