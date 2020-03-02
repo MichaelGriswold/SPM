@@ -2,11 +2,12 @@
 
 This GitHub repo was set up to share example (simulated) data and code for running a shared parameter model.
 
-Documentation:
+<u>Documentation:</u>
 Please see our journal article (link) for a full description of the SPM.
 The SPM Pseudo-Code pdf file contains some helpful information and a basic description of the models and fitting algorithms.
 
 Data: 
+
 simdata.csv is the example dataset (Brain Atrophy, Cognitive Decline & Dementia)
 
 Code: 
