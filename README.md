@@ -9,7 +9,7 @@ Documentation:
 
 Data: 
 
-1. [simdata.csv][] is the example dataset (Brain Atrophy, Cognitive Decline & Dementia)
+1. [simdata.csv][] is the example dataset (Brain Atrophy, Cognitive Decline & Dementia; simulated from ARIC)
 
 Code: 
 1. [spm.do][]:    Stata code for shared parameter model
