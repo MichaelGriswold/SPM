@@ -4,7 +4,7 @@ This GitHub repo was set up to share example (simulated) data and code for runni
 
 Documentation:
 
-Please see our journal article (link) for a full description of the SPM.
+Please see our journal article (link-coming) for a full description of the SPM.
 The SPM Pseudo-Code pdf file contains some helpful information and a basic description of the models and fitting algorithms.
 
 Data: 
