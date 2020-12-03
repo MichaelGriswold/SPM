@@ -59,9 +59,7 @@ gsem ///
   (demyears <- brainloss $adj U0[id]@r0 U1[id]@r1, fam(weib, fail(dementia))) ///
    , from(spm_modelse, skip) vce(robust)
 	 
-**************************************************************************	 
-** For comparison: full/complete data	 estimates
-gsem (globz_complete  <- c.brainloss##c.time $adj U0[id]@1 c.time#U1[id]@1) 
+
  	 
 	 
 	 
