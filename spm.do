@@ -6,7 +6,6 @@
 import delimited "1-data\simdata.csv", clear
   destring globz ,replace force  // globaz was read as string
   gen time = years/20 // scale time to 20 year effect
-  replace demyears=. if visit!=1 // GSEM non-time-varying surv models need 1 obs
   global adj male age0 // macro variable with adjustment vars for all models
 
 	
